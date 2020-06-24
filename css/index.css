@@ -1,0 +1,35 @@
+.nav{
+    background-color: rgb(188,143,143)!important;
+}
+
+ul li a{
+    color: white!important;
+}
+
+.pets{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+}
+
+.btn{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.found{
+    background-color: black;
+    color: white;
+}
+
+.search{
+    justify-content: center!important;
+    
+}
+
+.price{
+    color: #71b100;
+    font-weight: 700;
+    font-size: 1.8rem;
+}
